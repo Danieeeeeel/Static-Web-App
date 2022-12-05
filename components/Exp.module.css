@@ -3,6 +3,10 @@
   padding: 5%;
 }
 
+.container hr {
+  opacity: 0%;
+}
+
 .smallContainer {
   display: flex;
   flex: 1;
