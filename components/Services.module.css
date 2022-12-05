@@ -4,6 +4,10 @@
   font-family: "Roboto Condensed", sans-serif;
 }
 
+.container hr {
+  opacity: 0%;
+}
+
 .container h1 {
   font-size: 80px;
   font-weight: 700;
