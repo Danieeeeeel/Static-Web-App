@@ -1,0 +1,38 @@
+.container {
+  padding: 5%;
+  transition: 0.3s;
+}
+
+.info {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.info h1 {
+  font-size: 80px;
+  font-weight: 700;
+  margin-bottom: 0px;
+  transition: 0.3s;
+}
+
+.info p {
+  font-size: 40px;
+  font-weight: 400;
+  margin-top: 1.5rem;
+  transition: 0.3s;
+}
+@media screen and (max-width: 600px) {
+  .info h1 {
+    font-size: 40px;
+    margin: 20%;
+    transition: 0.3s;
+  }
+  .container {
+    text-align: center;
+    transition: 0.3s;
+  }
+  .info p {
+    font-size: 20px;
+    margin: 5%;
+    transition: 0.3s;
+  }
+}
