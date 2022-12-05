@@ -3,6 +3,10 @@
   transition: 0.3s;
 }
 
+.container hr {
+  opacity: 0%;
+}
+
 .info {
   font-family: "Roboto Condensed", sans-serif;
 }
