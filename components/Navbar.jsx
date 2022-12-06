@@ -72,7 +72,7 @@ export default class Navbar extends Component {
       </div>
       <div className={styles.navbarActions}>
           <button>
-            <Link to="aboutUs" spy={true} smooth={true} offset={-80} >
+            <Link to="aboutUs" spy={true} smooth={true} offset={-180} >
               About Us
             </Link>
           </button>
